@@ -1,3 +1,5 @@
+
+
 body {
   text-align: center;
   background-color: #011F3F;
@@ -8,6 +10,8 @@ body {
   font-size: 3rem;
   margin:  5%;
   color: #FEF2BF;
+  margin-bottom: 40px;
+  margin-top: 70px;
 }
 
 .container {
@@ -51,3 +55,7 @@ body {
   box-shadow: 0 0 20px white;
   background-color: grey;
 }
+footer{
+  color: #FEF2BF;
+}
+
